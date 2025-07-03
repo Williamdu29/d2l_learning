@@ -1,1 +1,2 @@
-# d2l_learning
+# Pytorch program
+this is william's pytorch program for deep learning
